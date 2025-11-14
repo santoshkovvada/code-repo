@@ -1,4 +1,4 @@
-Summary
+Updated Summary
 
 git init for creating a new repository on our local machine.
 git remote for connecting our local repository to GitHub.
